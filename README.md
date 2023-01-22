@@ -1,6 +1,6 @@
 # Getting Started with CHAT-GPT-React App
 
-Before you start the app, Go to https://beta.openai.com/ and from the accounts section get your Unique openai API key. Paste that key in OPENAI_API_KEY in the file App.js and you are good to go!!!
+Before you start the app, Go to https://beta.openai.com/ and from the accounts section get your Unique openai API key. The openai API key is unique for each account. Paste that key in OPENAI_API_KEY in the file App.js and you are good to go!!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
